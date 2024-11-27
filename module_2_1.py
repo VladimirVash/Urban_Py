@@ -1,6 +1,6 @@
-first = 3
-second = 2
-third = 1
+first = int(input())
+second = int(input())
+third = int(input())
 
 set_ = {first, second, third}
 
