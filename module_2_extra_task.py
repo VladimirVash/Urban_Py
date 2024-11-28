@@ -13,4 +13,4 @@ def get_password(n):
         return result
 
 for i in range(3, 21):
-    print(f'{i}: {get_password(i)}')
+    print(f'{i} - {get_password(i)}')
